@@ -60,7 +60,7 @@ My personal portfolio showcasing my skills, projects, and journey as a developer
 ## 📫 Connect With Me
 
 - GitHub: [@bimyna](https://github.com/bimyna)
-- Portfolio: [CHRIS.DEV](myportfolio-omega-six-24.vercel.app)
+- Portfolio: [View My Portfolio](https://github.com/bimyna/myportfolio)
 
 ---
 
