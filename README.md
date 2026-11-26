@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Chris
 
-### 💻 Software Developer | Aspiring Full-Stack Developer
+### Software Developer | Aspiring Full-Stack Developer
 
 I enjoy turning ideas into functional, responsive, and user-friendly web applications.
 
@@ -10,11 +10,11 @@ I'm passionate about learning, solving problems, and building projects that help
 
 ## 🚀 About Me
 
-- 🌱 im Currently improving my skills in **Backend**
-- 💻 Building projects with HTML, CSS, JavaScript, Sql , Php and python
-- 🎯 My goal is to become a highly skilled software developer
-- 📚 Always learning and exploring new technologies
-- 🤝 Open to learning, collaboration, and exciting opportunities
+-  im Currently improving my skills in **Backend**
+-  Building projects with HTML, CSS, JavaScript, Sql , Php and python
+-  My goal is to become a highly skilled software developer
+-  Always learning and exploring new technologies
+-  Open to learning, collaboration, and exciting opportunities
 
 ---
 
@@ -60,7 +60,7 @@ My personal portfolio showcasing my skills, projects, and journey as a developer
 ## 📫 Connect With Me
 
 - GitHub: [@bimyna](https://github.com/bimyna)
-- Portfolio: [CHRIS.DEV](https://bimyna.github.io/myportfolio/)
+- Portfolio: [CHRIS.DEV](https://github.com/bimyna/myportfolio)
 
 ---
 
