@@ -10,8 +10,8 @@ I'm passionate about learning, solving problems, and building projects that help
 
 ## 🚀 About Me
 
-- 🌱 Currently improving my skills in **JavaScript, PHP, and SQL**
-- 💻 Building projects with HTML, CSS, and JavaScript
+- 🌱 im Currently improving my skills in **Backend**
+- 💻 Building projects with HTML, CSS, JavaScript, Sql , Php and python
 - 🎯 My goal is to become a highly skilled software developer
 - 📚 Always learning and exploring new technologies
 - 🤝 Open to learning, collaboration, and exciting opportunities
@@ -21,7 +21,7 @@ I'm passionate about learning, solving problems, and building projects that help
 ## 🛠️ Tech Stack
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,github,vscode" alt="My tech stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,js,php,mysql,git,python,github,vscode" alt="My tech stack" />
 </p>
 
 ---
@@ -64,5 +64,5 @@ My personal portfolio showcasing my skills, projects, and journey as a developer
 
 ---
 
-### 🌱 Keep Learning. Keep Building. Keep Growing.
+###  Keep Learning. Keep Building. Keep Growing.
 
